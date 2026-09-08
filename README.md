@@ -1,6 +1,6 @@
 Hello my name is Kit Jackson and these are the projects I have worked on.
 
-KADI: Cofounded and cobuilt with Madeline Templeton. this past summer we built the app to help Coaches streamline their workflow. In essence, Kadi is built to replace the countless groupchats and grey area that comes with the natural informalities of private training. Whether it be an established coach, a Division 1 athlete on break looking to give some clinics, or even a tutor-- Kadi was built for them. My work was primarily focused on Frontend Development. Focusing on what needed to be where and how the app should feel. As of right now, we are officially on the IOS AppStore and coaches have begun using the app.
+KADI: Cofounded and cobuilt with Madeline Templeton. This past summer we built the app to help Coaches streamline their workflow. In essence, Kadi is built to replace the countless groupchats and grey area that comes with the natural informalities of private training. Whether it be an established coach, a Division 1 athlete on break looking to give some clinics, or even a tutor-- Kadi was built for them. My work was primarily focused on Frontend Development. Focusing on what needed to be where and how the app should feel. As of right now, we are officially on the IOS AppStore and coaches have begun using the app.
 
 Check it out! https://kadi.coach/c
 
